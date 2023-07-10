@@ -1,0 +1,7 @@
+{
+  "name": "projetokaka",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
